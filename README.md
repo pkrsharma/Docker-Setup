@@ -1,5 +1,7 @@
 # Docker Setup Script
 
+### Description
+
 This script sets up a development environment with multiple Docker containers, including PHP, MySQL, MongoDB, Redis, Elasticsearch, and RabbitMQ. It also creates a Docker network to allow communication between these containers.
 
 ## Prerequisites
