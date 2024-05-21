@@ -42,7 +42,7 @@ The script accepts the following optional parameters for MySQL configuration:
 The script creates a working directory for language-specific data at:
 
 ```
-/$USER_PATH/languages
+/YOUR_HOME_DIRECTORY/Documents/languages
 ```
 
 ### Container Management
